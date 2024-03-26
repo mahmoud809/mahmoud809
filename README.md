@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 - 👨🏽‍💻 I’m currently working @ Route Egypt.
-- 🌱 I’m currently learning .NET Technologies. 
+- 🌱 I have good experience in Angular & .NET Technologies. 
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ Fun-Fact: I have a degree in civil engineering.
 - 📫 How to reach me: boo.salah.pro@gmail.com.

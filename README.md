@@ -3,7 +3,7 @@
 -->
 
 <!-- Your title -->
-## Hi👋, I'm Mahmoud Salah, Full-Stack Web Developer ||[Angular&.NET]👨‍💻🤍.
+## Hi👋, I'm Mahmoud Salah, Full-Stack Web Developer || [Angular&.NET]👨‍💻🤍.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
